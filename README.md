@@ -1,3 +1,2 @@
 # ProgramasJava
-Son mis archivos de aprendizaje de Java
-Si desea participar puedes subir sus archivos.
+Estos son los archivos que programo en el aprendizaje de java
